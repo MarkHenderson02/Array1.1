@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 5\Array1.1\bin\Debug\Array1.1.exe.config
+G:\52020007\Pemg Visual\Modul 5\Array1.1\bin\Debug\Array1.1.exe
+G:\52020007\Pemg Visual\Modul 5\Array1.1\bin\Debug\Array1.1.pdb
+G:\52020007\Pemg Visual\Modul 5\Array1.1\bin\Debug\Array1.1.xml
+G:\52020007\Pemg Visual\Modul 5\Array1.1\obj\Debug\Array1.1.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 5\Array1.1\obj\Debug\Array1._1.Form1.resources
+G:\52020007\Pemg Visual\Modul 5\Array1.1\obj\Debug\Array1._1.Resources.resources
+G:\52020007\Pemg Visual\Modul 5\Array1.1\obj\Debug\Array1.1.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 5\Array1.1\obj\Debug\Array1.1.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 5\Array1.1\obj\Debug\Array1.1.exe
+G:\52020007\Pemg Visual\Modul 5\Array1.1\obj\Debug\Array1.1.xml
+G:\52020007\Pemg Visual\Modul 5\Array1.1\obj\Debug\Array1.1.pdb
